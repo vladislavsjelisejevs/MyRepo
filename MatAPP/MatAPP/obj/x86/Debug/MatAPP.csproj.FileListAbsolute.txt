@@ -1,0 +1,5 @@
+C:\Users\Vladislavs\Desktop\MyRepo\MatAPP\MatAPP\bin\Debug\MatAPP.exe
+C:\Users\Vladislavs\Desktop\MyRepo\MatAPP\MatAPP\bin\Debug\MatAPP.pdb
+C:\Users\Vladislavs\Desktop\MyRepo\MatAPP\MatAPP\obj\x86\Debug\MatAPP.csprojResolveAssemblyReference.cache
+C:\Users\Vladislavs\Desktop\MyRepo\MatAPP\MatAPP\obj\x86\Debug\MatAPP.exe
+C:\Users\Vladislavs\Desktop\MyRepo\MatAPP\MatAPP\obj\x86\Debug\MatAPP.pdb

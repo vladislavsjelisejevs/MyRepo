@@ -9,6 +9,12 @@ namespace MatAPP
     {
         static void Main(string[] args)
         {
+            int x, y;
+            string s;
+            Console.WriteLine("Ievadi divus skaitlus: ");
+            Console.Write("x= "); s = Console.ReadLine(); x = int.Parse(s);
+            Console.Write("y= "); s = Console.ReadLine(); y = int.Parse(s);
+            Console.ReadLine();
         }
     }
 }

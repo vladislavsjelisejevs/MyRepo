@@ -16,6 +16,10 @@ namespace MatAPP
             Console.Write("y= "); s = Console.ReadLine(); y = int.Parse(s);
             z = x * y;
             Console.WriteLine("x*y= " + z.ToString());
+            for (int i = 1; i <= z; i++)
+            {
+                Console.Write(" * ");
+            }
             Console.ReadLine();
         }
     }

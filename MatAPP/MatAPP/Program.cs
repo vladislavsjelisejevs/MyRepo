@@ -15,7 +15,7 @@ namespace MatAPP
             Console.Write("x= "); s = Console.ReadLine(); x = int.Parse(s);
             Console.Write("y= "); s = Console.ReadLine(); y = int.Parse(s);
             w = x + y;
-            Console.WriteLine("Skaitļu (x+y) summa: " + w.ToString());
+            Console.WriteLine("x un y summa ir: " + w.ToString());
             Console.ReadLine();
         }
     }
